@@ -79,7 +79,7 @@ Voici la liste des fonctions reconnus dans l'unité CSVLIBTP :
     <td>Cette fonction permet de lire un enregistrement dans le fichier CSV.</td>
   </tr>
   <tr>
-    <td>SetSeparatorCSV</td></tr>
+    <td><b>SetSeparatorCSV</b></td>
     <td>Cette procédure permet de fixer le séparateur de champ à utiliser dans un fichier CSV.</td>
 </tr>
   <tr>
